@@ -8,6 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. You should see the screen as below.
 ![simple ag-grid app](https://raw.githubusercontent.com/eagleeyethinker/ImageRepo/master/SimpleAngularAgGrid.JPG)
+See my other repo https://github.com/eagleeyethinker/angular-ag-grid-typescript for a rich ag-grid demo code.
 
 ## Code scaffolding
 
